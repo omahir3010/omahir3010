@@ -8,7 +8,7 @@ I'm **Om Ahir**, a Cloud Engineer and Full-Stack Developer with 3.3+ years of ex
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://omahir.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-ahir-324618218)  
-[![Blog](https://img.shields.io/badge/Blog-%23FF7139.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.omahir.com)  
+[![Blog](https://img.shields.io/badge/Blog-%23FF7139.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.omahir.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/om_ahirr)
 
 ---
