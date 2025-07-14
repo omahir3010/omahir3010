@@ -7,9 +7,9 @@ I'm **Om Ahir**, a Cloud Engineer and Full-Stack Developer with 3.3+ years of ex
 ## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://omahir.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omahir)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-ahir-324618218)  
 [![Blog](https://img.shields.io/badge/Blog-%23FF7139.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.omahir.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/om_ahirr)
 
 ---
 
@@ -49,6 +49,11 @@ Lambda • EC2 • EKS • RDS • S3 • Cognito • CloudFront • API Gateway
 ### ⚙️ Tools & Infra  
 Terraform • GitHub Actions • Jenkins • Docker • Kubernetes • Serverless • Postman
 
+### 🤖 LLM & AI Stack  
+OpenAI API • Amazon Bedrock • Google Gemini • Retrieval-Augmented Generation (RAG)  
+Model Context Protocol (MCP) • Prompt Engineering • AWS Lambda for LLM Inference  
+API Gateway • DynamoDB • Vue3 AI Interfaces • Emotion Vault Logic • Dream Journal AI
+
 ### 🧱 Backend  
 Node.js • Express.js • MongoDB • MySQL • REST APIs • JWT Auth
 
@@ -57,26 +62,8 @@ Vue 3 • TypeScript • Tailwind CSS • AngularJS • Bootstrap • Figma • 
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=omahir&theme=tokyonight&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=omahir&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omahir&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=omahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## ✍️ Dev Quote of the Day  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## ☕ Support My Open-Source Work  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omahir)
 
 ---
 
