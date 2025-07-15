@@ -3,7 +3,7 @@
 I'm **Om Ahir**, a Cloud Engineer and Full-Stack Developer with 3.3+ years of experience delivering cloud-native applications and AI-integrated platforms using **AWS**, **Terraform**, and **modern JavaScript frameworks**. I specialize in building resilient, secure, and scalable infrastructure — from **serverless architecture** to **Kubernetes**, and from **MCP-powered infra generators** to AI companion tools for mental wellness.
 
 ---
-
+ 
 ## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://omahir.com)  
